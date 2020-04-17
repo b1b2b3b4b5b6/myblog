@@ -1,8 +1,8 @@
 #GitBlog配置文件，使用4个空格代替Tab
 ---
-url: /
-title: Your-GitBlog
-subtitle: 自豪地采用GitBlog
+url: lumosblog.cn
+title: lumos的学习记录
+subtitle: 
 theme: quest
 enableCache: true
 highlight: true
@@ -10,15 +10,15 @@ mathjax: false
 katex: false
 youyan:
 baiduAnalytics:
-keywords: GitBlog,博客,Markdown博客,jockchou
+keywords: Markdown博客,
 description: >
-    GitBlog是一个简单易用的Markdown博客系统
+    学习，随笔
 version: 2.2
 author:
-    name: your-name
-    email: your-email@example.com
-    github: your-github
-    weibo: your-weibo
+    name: lumos
+    email: a1439458305@163.com
+    github: http://github.com/b1b2b3b4b5b6
+    weibo: 
     avatar:
 blog:
     recentSize: 5
