@@ -9,7 +9,7 @@ highlight: true
 mathjax: false
 katex: false
 youyan:
-baiduAnalytics:
+baiduAnalytics: 0173e81ef64d798224d26c829fb12cbb
 keywords: Markdown博客,
 description: >
     学习，随笔
